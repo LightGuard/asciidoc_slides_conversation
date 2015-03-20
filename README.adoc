@@ -1,0 +1,4 @@
+== asciidoc_slides_conversation
+A simple, open place to discuss and whiteboard slides created by asciidoc(tor)
+
+Until we get some actual code here, use the issues to communicate ideas
